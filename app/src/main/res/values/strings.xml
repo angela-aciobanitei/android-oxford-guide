@@ -1,0 +1,182 @@
+<resources>
+    <string name="app_name">Oxford</string>
+    <string name="sights_oxford_university_name">University of Oxford</string>
+    <string name="sights_oxford_university_description">Venerable university with 38 colleges plus more than 22,000 students and 70 research departments.</string>
+    <string name="sights_oxford_university_address">Oxford OX1 2JD</string>
+    <string name="sights_oxford_university_website">http://www.ox.ac.uk/</string>
+    <string name="sights_oxford_university_phone">+44 1865 270000</string>
+
+    <string name="sights_bodleian_library_name">Bodleian Library</string>
+    <string name="sights_bodleian_library_description">The UK\'s second largest library, established in 1602 and containing over 11 million works.</string>
+    <string name="sights_bodleian_library_address">Broad St, Oxford OX1 3BG</string>
+    <string name="sights_bodleian_library_website">https://www.bodleian.ox.ac.uk/bodley</string>
+    <string name="sights_bodleian_library_schedule">Monday - Friday 9am - 7pm</string>
+    <string name="sights_bodleian_library_phone">+44 1865 287400</string>
+
+    <string name="sights_oxford_castle_name">Oxford Castle</string>
+    <string name="sights_oxford_castle_description">Remains of a large medieval castle, with tours by costumed guides including the 900-year-old crypt.</string>
+    <string name="sights_oxford_castle_address">44–46 Oxford Castle Quarter</string>
+    <string name="sights_oxford_castle_website">https://www.oxfordcastleunlocked.co.uk/</string>
+    <string name="sights_oxford_castle_schedule">Daily 10am - 5:30pm</string>
+    <string name="sights_oxford_castle_phone">+44 1865 260666</string>
+
+    <string name="sights_sheldonian_theatre_name">Sheldonian Theatre</string>
+    <string name="sights_sheldonian_theatre_description">A landmark, Wren-designed building hosting university classical concerts, lectures and ceremonies.</string>
+    <string name="sights_sheldonian_theatre_address">Broad St, Oxford OX1 3AZ</string>
+    <string name="sights_sheldonian_theatre_website">http://www.admin.ox.ac.uk/sheldonian/</string>
+    <string name="sights_sheldonian_theatre_schedule">Monday - Saturday  10am - 4:30pm</string>
+    <string name="sights_sheldonian_theatre_phone">+44 1865 277299</string>
+
+    <string name="sights_magdalen_college_name">Magdalen College</string>
+    <string name="sights_magdalen_college_description">Elegant riverside college, founded in 1458, with deer park and bell tower sung from on May Morning.</string>
+    <string name="sights_magdalen_college_address">Oxford OX1 4AU</string>
+    <string name="sights_magdalen_college_website">http://www.magd.ox.ac.uk/</string>
+    <string name="sights_magdalen_college_phone">+44 1865 276000</string>
+
+    <string name="sights_university_church_st_mary_name">University Church of St. Mary the Virgin</string>
+    <string name="sights_university_church_st_mary_description">Considered one of the oldest university buildings in the world, this is a superb example of Church Architecture from the 13th century.</string>
+    <string name="sights_university_church_st_mary_address">The High Street, Oxford OX1 4BJ</string>
+    <string name="sights_university_church_st_mary_website">http://www.universitychurch.ox.ac.uk/</string>
+    <string name="sights_university_church_st_mary_schedule">Monday - Saturday 9am - 5pm\nSunday 12pm - 5pm</string>
+    <string name="sights_university_church_st_mary_phone">+44 1865 279111</string>
+
+    <string name="sights_new_college_name">New College</string>
+    <string name="sights_new_college_description">Founded in 1379, New College is one of the larger colleges at the University of Oxford, and is particularly well-known for its Chapel and Choir.</string>
+    <string name="sights_new_college_address">Holywell St, Oxford OX1 3BN</string>
+    <string name="sights_new_college_website">http://www.new.ox.ac.uk/</string>
+    <string name="sights_new_college_phone">+44 1865 279500</string>
+
+    <string name="sights_radcliffe_camera_name">Radcliffe Camera</string>
+    <string name="sights_radcliffe_camera_description">Completed in 1737, this domed classical building forms the hub of architectural Oxford, and is considered one of England\'s earliest examples of a round library.</string>
+    <string name="sights_radcliffe_camera_address">Radcliffe Square, Oxford OX1 4AJ</string>
+    <string name="sights_radcliffe_camera_website">https://www.bodleian.ox.ac.uk/bodley</string>
+    <string name="sights_radcliffe_camera_schedule">Monday - Friday 9am - 10pm\nSaturday - Sunday 11am - 5pm</string>
+    <string name="sights_radcliffe_camera_phone">+44 1865 277162</string>
+
+    <string name="sights_bridge_of_sighs_name">Bridge of Sighs</string>
+    <string name="sights_bridge_of_sighs_description">Hertford Bridge, often called \"The Bridge of Sighs\", is a skyway joining two parts of Hertford College over New College Lane in Oxford.</string>
+    <string name="sights_bridge_of_sighs_address">New College Ln., Oxford OX1 3BL</string>
+
+    <string name="sights_balliol_college_name">Balliol College</string>
+    <string name="sights_balliol_college_description">Part of the University of Oxford, Balliol College was founded in 1263 by John Balliol and was one of the first colleges to create academic opportunities for women.</string>
+    <string name="sights_balliol_college_address">Broad Street, Oxford OX1 3BJ</string>
+    <string name="sights_balliol_college_website">https://www.balliol.ox.ac.uk/</string>
+    <string name="sights_balliol_college_phone">+44 1865 277777</string>
+
+    <string name="parks_botanic_garden_name">University of Oxford Botanic Garden</string>
+    <string name="parks_oxford_botanic_gardens_description">Britain\'s oldest botanic garden, with plants from around the world, both indoor and outdoor.</string>
+    <string name="parks_oxford_botanic_gardens_address">Rose Lane, Oxford OX1 4AZ</string>
+    <string name="parks_oxford_botanic_gardens_website">http://www.botanic-garden.ox.ac.uk/</string>
+    <string name="parks_oxford_botanic_gardens_schedule">Monday 12 – 4pm\nTuesday - Saturday 9am - 4pm</string>
+    <string name="parks_oxford_botanic_gardens_phone">+44 1865 286690</string>
+
+    <string name="parks_christ_church_meadow_name">Christ Church Meadow</string>
+    <string name="parks_christ_church_meadow_description">This scenic park offers a delightful two-mile walk through meadows and along river banks, offering picturesque views and ideal spots for picnics, sitting or just relaxing.</string>
+    <string name="parks_christ_church_meadow_address">St. Aldates, Oxford OX1 1DP</string>
+    <string name="parks_christ_church_meadow_website">http://www.chch.ox.ac.uk/visiting-christ-church/meadow</string>
+    <string name="parks_christ_church_meadow_schedule">Daily 6am - 9pm</string>
+    <string name="parks_christ_church_meadow_phone">+44 1865 276150</string>
+
+    <string name="parks_oxford_university_parks_name">Oxford University Parks</string>
+    <string name="parks_oxford_university_parks_description">Since being laid out as a park for sports and recreational purposes in 1864 the unique beauty of University Parks has made it a focal point for hosting events and attracting large public gatherings to commemorate special occasions.</string>
+    <string name="parks_oxford_university_parks_address">South Parks Rd, Oxford OX1 3RF</string>
+    <string name="parks_oxford_university_parks_website">https://www.parks.ox.ac.uk/</string>
+    <string name="parks_oxford_university_parks_schedule">Monday - Friday  8am - 5pm</string>
+    <string name="parks_oxford_university_parks_phone">+44 1865 282040</string>
+
+    <string name="parks_port_meadow_name">Port Meadow</string>
+    <string name="parks_port_meadow_description">Unspoilt ancient meadow by the River Thames for walks, wild ponies, bird watching and wildflowers.</string>
+    <string name="parks_port_meadow_address">Walton Well Rd, Oxford OX2 6ED</string>
+    <string name="parks_port_meadow_website">https://www.oxford.gov.uk/info/20003/parks_and_open_spaces/823/port_meadow</string>
+    <string name="parks_port_meadow_schedule">Open 24/7</string>
+    <string name="parks_port_meadow_phone">+44 1865 715830</string>
+
+    <string name="parks_south_park_name">South Park</string>
+    <string name="parks_south_park_description">Open green space over 50 acres with paths and children\'s playground, plus views over the city.</string>
+    <string name="parks_south_park_address">Oxford OX4 1</string>
+    <string name="parks_south_park_website">https://www.oxford.gov.uk/directory_record/358/south_park</string>
+    <string name="parks_south_park_schedule">Open 24/7</string>
+    <string name="parks_south_park_phone">+44 1865 249811</string>
+
+    <string name="museums_ashmolean_name">Ashmolean Museum of Art and Archaeology</string>
+    <string name="museums_ashmolean_description">Ancient and modern art and antiquities covering world civilisations, plus fine and applied arts.</string>
+    <string name="museums_ashmolean_address">Beaumont St, Oxford OX1 2PH</string>
+    <string name="museums_ashmolean_website">https://www.ashmolean.org/</string>
+    <string name="museums_ashmolean_schedule">Tuesday - Sunday  10am - 5pm</string>
+    <string name="museums_ashmolean_phone">+44 1865 278000</string>
+
+    <string name="museums_pitt_rivers_name">Pitt Rivers Museum</string>
+    <string name="museums_pitt_rivers_description">A cornucopia of ethnographic treasures from shrines to shrunken heads, packed in according to type.</string>
+    <string name="museums_pitt_rivers_address">South Parks Rd, Oxford OX1 3PP</string>
+    <string name="museums_pitt_rivers_website">https://www.prm.ox.ac.uk/</string>
+    <string name="museums_pitt_rivers_schedule">Daily 10am - 4:30pm</string>
+    <string name="museums_pitt_rivers_phone">+44 1865 270927</string>
+
+    <string name="museums_natural_history_name">Oxford University Museum of Natural History</string>
+    <string name="museums_natural_history_description">Immense university museum of zoology, entomology and geology set in a grand neo-Gothic building.</string>
+    <string name="museums_natural_history_address">Parks Rd, Oxford OX1 3PW</string>
+    <string name="museums_natural_history_website">http://www.oum.ox.ac.uk/</string>
+    <string name="museums_natural_history_schedule">Daily 10am - 5pm</string>
+    <string name="museums_natural_history_phone">+44 1865 272950</string>
+
+    <string name="museums_history_of_science_name">Museum of the History of Science</string>
+    <string name="museums_history_of_science_description">The university\'s diminutive science museum, curated around objects such as astrolabes and sundials.</string>
+    <string name="museums_history_of_science_address">Broad St, Oxford OX1 3AZ</string>
+    <string name="museums_history_of_science_website">http://www.mhs.ox.ac.uk/visit/</string>
+    <string name="museums_history_of_science_schedule">Tuesday - Sunday 12am - 5pm</string>
+    <string name="museums_history_of_science_phone">+44 1865 277280</string>
+
+    <string name="museums_the_story_name">The Story Museum</string>
+    <string name="museums_the_story_description"><![CDATA[Family-friendly museum with exhibitions & events related to storytelling, plus a cafe & gift shop.]]></string>
+    <string name="museums_the_story_address">Rochester House, 42 Pembroke St, Oxford OX1 1BP</string>
+    <string name="museums_the_story_website">http://www.storymuseum.org.uk/</string>
+    <string name="museums_the_story_schedule">Daily 10am - 5pm</string>
+    <string name="museums_the_story_phone">+44 1865 790050</string>
+
+    <string name="museums_modern_art_name">Modern Art Oxford</string>
+    <string name="museums_modern_art_description">Cutting-edge exhibitions of international modern and contemporary visual art, plus an upbeat cafe.</string>
+    <string name="museums_modern_art_address">30 Pembroke St, Oxford OX1 1BP</string>
+    <string name="museums_modern_art_website">https://www.modernartoxford.org.uk/</string>
+    <string name="museums_modern_art_schedule">Tuesday - Sunday 10am - 5pm</string>
+    <string name="museums_modern_art_phone">+44 1865 722733</string>
+
+    <string name="museums_museum_of_oxford_name">Museum of Oxford</string>
+    <string name="museums_museum_of_oxford_description">Oxford life through the ages, with special attention paid to the university and literary figures.</string>
+    <string name="museums_museum_of_oxford_address">St Aldate\'s, Oxford OX1 1BX</string>
+    <string name="museums_museum_of_oxford_website">https://www.oxford.gov.uk/museumofoxford</string>
+    <string name="museums_museum_of_oxford_schedule">Monday - Saturday 10am - 5pm</string>
+    <string name="museums_museum_of_oxford_phone">+44 1865 722733</string>
+
+    <string name="tours_footprints_name">Footprints Tours Oxford</string>
+    <string name="tours_footprints_address">Broad St, OX1 3BJ</string>
+    <string name="tours_footprints_website">http://www.footprints-tours.com/</string>
+    <string name="tours_footprints_phone">+44 20 7558 8706</string>
+
+    <string name="tours_walkingtoursoxford_name">Walking Tours of Oxford</string>
+    <string name="tours_walkingtoursoxford_address">Oxford OX1 3EY</string>
+    <string name="tours_walkingtoursoxford_website">http://www.walkingtoursofoxford.com/</string>
+    <string name="tours_walkingtoursoxford_phone">+44 7833 176196</string>
+
+    <string name="tours_wanderwalkingtour_name">Wander Oxford Walking Tours</string>
+    <string name="tours_wanderwalkingtour_address">Oxford, England</string>
+    <string name="tours_wanderwalkingtour_website">http://www.wanderoxford.co.uk/</string>
+    <string name="tours_wanderwalkingtour_schedule">Thursday – Sunday 10:00 – 17:00</string>
+    <string name="tours_wanderwalkingtour_phone">+44 7487 687629</string>
+
+    <string name="tours_oxfordwalkingtours_name">Oxford Walking Tours</string>
+    <string name="tours_oxfordwalkingtours_address">Trinity College, Broad St, Oxford OX1 3BH</string>
+    <string name="tours_oxfordwalkingtours_website">http://www.oxfordwalkingtours.com/</string>
+    <string name="tours_oxfordwalkingtours_schedule">Sunday – Saturday  11:00 – 16:00</string>
+    <string name="tours_oxfordwalkingtours_phone">+44 7790 734387</string>
+
+    <string name="tours_oxford_river_cruises_name">Oxford River Cruises</string>
+    <string name="tours_oxford_river_cruises_address">1 Folly Bridge, Oxford OX1 4JU</string>
+    <string name="tours_oxford_river_cruises_website">https://www.oxfordrivercruises.com/</string>
+    <string name="tours_oxford_river_cruises_phone">+44 845 226 9396</string>
+
+    <string name="category_sights">Sights</string>
+    <string name="category_parks">Parks</string>
+    <string name="category_museums">Museums</string>
+    <string name="category_tours">Tours</string>
+
+</resources>

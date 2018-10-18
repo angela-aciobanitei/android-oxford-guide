@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/list_item_card_view_margin">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/photo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scaleType="centerCrop"
+                android:adjustViewBounds="true"
+                tools:ignore="ContentDescription"
+                tools:src="@drawable/sights_oxford_castle"/>
+
+            <TextView
+                android:id="@+id/name"
+                android:text=""
+                tools:text="@string/sights_oxford_castle_name"
+                style="@style/ListItemTitleStyle" />
+
+            <TextView
+                android:id="@+id/description"
+                tools:text="@string/sights_oxford_castle_description"
+                style="@style/ListItemDescriptionStyle" />
+
+            <TextView
+                android:id="@+id/address"
+                android:text=""
+                android:textColor="@color/colorAccent"
+                android:drawableLeft="@drawable/ic_place_black_24dp"
+                android:drawableStart="@drawable/ic_place_black_24dp"
+                android:autoLink="map"
+                tools:text="@string/sights_oxford_castle_address"
+                style="@style/ListItemInfoStyle" />
+
+            <TextView
+                android:id="@+id/website"
+                style="@style/ListItemInfoStyle"
+                android:drawableLeft="@drawable/ic_public_black_24dp"
+                android:drawableStart="@drawable/ic_public_black_24dp"
+                android:autoLink="web"
+                tools:text="@string/sights_oxford_castle_website"/>
+
+            <TextView
+                android:id="@+id/phone"
+                style="@style/ListItemInfoStyle"
+                android:drawableLeft="@drawable/ic_phone_black_24dp"
+                android:drawableStart="@drawable/ic_phone_black_24dp"
+                android:autoLink="phone"
+                tools:text="@string/sights_oxford_castle_phone"/>
+
+            <TextView
+                android:id="@+id/schedule"
+                style="@style/ListItemInfoStyle"
+                android:drawableLeft="@drawable/ic_schedule_black_24dp"
+                android:drawableStart="@drawable/ic_schedule_black_24dp"
+                tools:text="@string/sights_oxford_castle_schedule"/>
+
+        </LinearLayout>
+
+
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>
