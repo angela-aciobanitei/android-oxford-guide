@@ -1,5 +1,5 @@
 # Android Basics Nanodegree by Google | Udacity Project 6: Oxford Guide
-A tour guide app which presents relevant attractions for a specific location.
+A tour guide app that presents relevant attractions for a specific location.
 
 <img src="screenshot-oxford-guide1.png" width="300"/>
 
